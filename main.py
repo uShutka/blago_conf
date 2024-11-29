@@ -1,7 +1,3 @@
-#!/home/marat/Aiogram3/venv/bin/python3
-"""
-This example shows how to use webhook on behind of any reverse proxy (nginx, traefik, ingress etc.)
-"""
 import logging
 import ssl
 import sys

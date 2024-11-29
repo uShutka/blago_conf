@@ -11,7 +11,7 @@
 
 2. Скачиваем первый скрипт, выполним команду:  
     ```
-    wget https://raw.githubusercontent.com/Marat2010/Aiogram3/master/Scripts/1_start.sh
+    wget https://github.com/uShutka/blago_conf/master/Scripts/1_start.sh
     ```
 
 3. Делаем скрипт исполняемым:  
